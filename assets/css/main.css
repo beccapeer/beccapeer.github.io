@@ -3626,7 +3626,7 @@ input, select, textarea {
 
 			#header {
 				/* height: 14rem; */
-				padding-bottom: 4rem;
+				padding-bottom: 0rem;
 			}
 
 		}
